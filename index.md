@@ -1,5 +1,5 @@
 ---
-title: /
+title: jamila speaks cyber 🫧
 layout: home
 permalink: /
 ---
