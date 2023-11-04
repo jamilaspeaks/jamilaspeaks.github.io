@@ -3,14 +3,14 @@
 #google_analytics: UA-NNNNNNNN-N
 
 header_pages:
-  home.md
-  about.md
-  contact.md
+ - home.md
+ - about me.md
+ - contact.md
 
-footer: 'follow me on <a href="https://twitter.com/">linkedin</a>'
+footer: 'add me on <a href="https://www.linkedin.com/in/jamila-reed-07b043144/">linkedin</a>'
 
 style: dark # dark (default) or light
-#listen_for_clients_preferred_style: true # true or false (default)
+listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
