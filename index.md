@@ -1,5 +1,11 @@
 ---
-title: jamila speaks cyber 🫧
+title: jamila speaks cyber. 🫧
+layout: home
+permalink: /
+title: about me.
+layout: home
+permalink: /
+title: contact me.
 layout: home
 permalink: /
 ---
