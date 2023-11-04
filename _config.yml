@@ -3,9 +3,8 @@
 #google_analytics: UA-NNNNNNNN-N
 
 header_pages:
- - home.md
- - about me.md
- - contact.md
+  - index.md
+  - about.md
 
 footer: 'add me on <a href="https://www.linkedin.com/in/jamila-reed-07b043144/">linkedin</a>'
 
