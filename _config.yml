@@ -5,7 +5,6 @@ google_analytics: UA-NNNNNNNN-N
 header_pages:
   - about.md
   - contact-me.md
-  - a-random-page.md
 
 footer: 'add me on <a href="https://www.linkedin.com/in/jamila-reed-07b043144/">linkedin</a>'
 
